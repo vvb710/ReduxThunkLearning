@@ -1,1 +1,1 @@
-# ReactSetup
+# ReactReduxThunk
